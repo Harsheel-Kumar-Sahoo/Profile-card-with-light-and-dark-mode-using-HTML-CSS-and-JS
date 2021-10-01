@@ -1,0 +1,50 @@
+body{
+    font-family: calibri;
+    background:  url(https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#card{
+    border-radius: 12px;
+}
+.card{
+    background: white;
+    margin: auto;
+    margin-top: 175px;
+    width: fit-content;
+    height: fit-content;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.username{
+    height: 75%;
+    margin: 0%;
+    /* padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px; */
+    padding-left: 5px;
+    padding-right: 5px;
+    padding: 5px;
+    color: white;
+    background-color: #38ac74;
+}
+.username p{
+    font-size: 30px;
+}
+.userpic{
+    width: 75px;
+    float: right;
+}
+.userabout{
+    font-size: 20px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.dark{
+    width: fit-content;
+    margin: auto;
+}
+a{
+    margin: auto;
+    padding: 15px;
+}
